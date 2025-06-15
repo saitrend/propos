@@ -1,19 +1,5 @@
 [  
     {
-      "version": "v3.0.1",
-      "date": "2025-06-20",
-      "info": "The new version 3 release includes vast amount of improvements and newly added features to ebmbook Pro POS.",
-      "changes": [
-        {"text": "🔖 Deals feature: The deals feature enables you to create meals, create deals and link products and categories to the deals with any base price", "link":"", "video":""},
-        {"text": "🔖 Deals integrated into receipts, dashboard and also to cloud sync for mobilepos access."},
-        {"text": "🧠 Auto populate product groups upon typing for group names."},        
-        {"text": "🕒 KDS: Send and receive real-time orders between the POS and the Kitchen Display System (KDS)."},
-        {"text": "🕒 KDS: The KDS release has support for both mobile and web versions. The web version is available from within Embook Pro POS >> Settings >> External Apps. The Mobile version from Android App."},
-        {"text": "🐞 Bug fixed with receipt printing and customisation."},
-        {"text": "🖨️ Receipts now have more self-managed options as well as let's you include QRCode in the receipt."}
-      ]
-    },
-    {
       "version": "v2.1.0",
       "date": "2023-03-25",
       "changes": [
