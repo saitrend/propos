@@ -1,6 +1,6 @@
 [  
     {
-      "version": "3.0.1",
+      "version": "v3.0.1",
       "date": "2025-06-20",
       "info": "The new version 3 release includes vast amount of improvements and newly added features to ebmbook Pro POS.",
       "changes": [
@@ -14,8 +14,8 @@
       ]
     },
     {
-      "version": "2.0.1",
-      "date": "2023-05-25",
+      "version": "v2.1.0",
+      "date": "2023-03-25",
       "changes": [
         {"text": "To see all the changes of older versions of Ebmbook Pro POS, please visit [ebmbook]", "link":"https://ebmbook.com/blog/epos-version-updates/"}
       ]
